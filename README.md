@@ -14,3 +14,8 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+<h3> 💿 &nbsp; Operting System</h3>
+
+-Mac OS
+-Windows
