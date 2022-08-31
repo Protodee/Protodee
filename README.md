@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Heyo! I'm Clayton👋.</h2>
 
-<!--
-**Protodee/Protodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+-🤔 &nbsp; Exploring new technologies and developing sustainable solutions
+- 🎓 &nbsp; Studying Chemical Engineering 
+- 🌱 &nbsp; Learning more about Javascript, Python, Excel, and MatLab
+- ✍️ &nbsp; Indulge in Technology Repairing/Restoration and Community Service as hobbies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Stack</h3>
+ 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  
+<h3> 💿 &nbsp;Operating System</h3>
+-Mac OS
+-Windows
