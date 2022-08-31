@@ -1,4 +1,4 @@
-<h2> Heyo! I'm Clayton👋.</h2>
+<h2> Greetings! I'm Clayton👋.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
