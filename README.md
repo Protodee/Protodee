@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing sustainable solutions.
 - 🎓 &nbsp; Studying Chemical Engineering.
-- 🌱 &nbsp; Learning more about Javascript, Python, Excel, and MatLab.
+- 🌱 &nbsp; Learning more about Javascript, Python, Excel, and MATLAB.
 - ✍️ &nbsp; Indulge in Technology Repairing/Restoration and Community Service as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
