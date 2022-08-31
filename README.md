@@ -15,7 +15,7 @@
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-<h3> 💿 &nbsp; Operting System</h3>
+<h3> 💿 &nbsp; Operating System</h3>
 
--Mac OS
--Windows
+- Mac OS
+- Windows
